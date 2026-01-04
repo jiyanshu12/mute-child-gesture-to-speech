@@ -33,14 +33,11 @@ To build an assistive system that converts hand gestures into meaningful voice o
 
 ## ▶ How to Run the Project
 
-
-👉 That closing ``` is **mandatory**.
+That closing ``` is **mandatory**.
 
 ---
 
-## ✅ STEP 3: USE THIS FINAL, CORRECT IMAGE SECTION (COPY–PASTE)
-
-Replace your **Output Screenshots** section with this **exact block**:
+### 4️⃣ Now BELOW that, paste this **FINAL Output Screenshots section**
 
 ```markdown
 ## Output Screenshots
@@ -62,3 +59,4 @@ Replace your **Output Screenshots** section with this **exact block**:
 
 ### Gesture Detection – Thank You
 ![Thank You Gesture](screenshots/pic6.png)
+
