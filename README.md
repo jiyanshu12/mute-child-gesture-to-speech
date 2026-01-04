@@ -1,27 +1,27 @@
 # Mute Child Gesture to Speech System
 
 This project helps mute or speech-impaired children communicate using hand gestures.
-Hand gestures are detected through a webcam and converted into speech in real time.
+Hand gestures are detected using a webcam and converted into speech in real time.
 
 ---
 
 ## 🎯 Objective
-To build an assistive system that converts hand gestures into meaningful voice output for mute children.
+To build an assistive system that converts hand gestures into meaningful voice output.
 
 ---
 
 ## 🛠 Technologies Used
-- Python 3
+- Python
 - OpenCV
 - MediaPipe
-- pyttsx3 (Text to Speech)
+- pyttsx3 (Text-to-Speech)
 
 ---
 
 ## ✋ Supported Gestures
 
 | Gesture | Hand Action | Output |
-|------|------------|--------|
+|-------|------------|--------|
 | HELLO | Open palm | Hello |
 | YES | Index + Middle | Yes |
 | NO | Index only | No |
@@ -31,32 +31,45 @@ To build an assistive system that converts hand gestures into meaningful voice o
 
 ---
 
-## ▶ How to Run the Project
+## ▶ How to Run
 
-That closing ``` is **mandatory**.
+```bash
+python -m app.main
+
+👉 There must be:
+- An **opening ```bash**
+- A **closing ```**
+- A **blank line after**
 
 ---
 
-### 4️⃣ Now BELOW that, paste this **FINAL Output Screenshots section**
+## 🔧 STEP 3: DELETE EVERYTHING BELOW that section  
+(Delete your current Output Screenshots text completely)
+
+---
+
+## 🔧 STEP 4: NOW PASTE THIS (FINAL, CLEAN VERSION)
+
+Paste this **fresh**, starting on a **new empty line**:
 
 ```markdown
 ## Output Screenshots
 
 ### Gesture Detection – Hello
-![Hello Gesture](screenshots/pic1.png)
+![Hello Gesture](./screenshots/pic1.png)
 
 ### Gesture Detection – Yes
-![Yes Gesture](screenshots/pic2.png)
+![Yes Gesture](./screenshots/pic2.png)
 
 ### Gesture Detection – No
-![No Gesture](screenshots/pic3.png)
+![No Gesture](./screenshots/pic3.png)
 
 ### Gesture Detection – Water
-![Water Gesture](screenshots/pic4.png)
+![Water Gesture](./screenshots/pic4.png)
 
 ### Gesture Detection – Help
-![Help Gesture](screenshots/pic5.png)
+![Help Gesture](./screenshots/pic5.png)
 
 ### Gesture Detection – Thank You
-![Thank You Gesture](screenshots/pic6.png)
+![Thank You Gesture](./screenshots/pic6.png)
 
