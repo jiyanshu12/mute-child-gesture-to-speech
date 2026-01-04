@@ -35,3 +35,23 @@ To build an assistive system that converts hand gestures into meaningful voice o
 
 ```bash
 python -m app.main
+## Output Screenshots
+
+### Gesture Detection – Hello
+![Hello Gesture](screenshots/pic1.png)
+
+### Gesture Detection – Yes
+![Yes Gesture](screenshots/pic2.png)
+
+### Gesture Detection – No
+![No Gesture](screenshots/pic3.png)
+
+### Gesture Detection – Water
+![Water Gesture](screenshots/pic4.png)
+
+### Gesture Detection – Help
+![Help Gesture](screenshots/pic5.png)
+
+### Gesture Detection – Thank You
+![Thank You Gesture](screenshots/pic6.png)
+
