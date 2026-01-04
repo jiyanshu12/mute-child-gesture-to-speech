@@ -56,7 +56,8 @@ Paste this **fresh**, starting on a **new empty line**:
 ## Output Screenshots
 
 ### Gesture Detection – Hello
-![Hello Gesture](screenshots/pic1.png)
+![Output Screenshot](screenshots/pic1.png)
+
 
 ### Gesture Detection – Yes
 ![Yes Gesture](./screenshots/pic2.png)
