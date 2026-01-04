@@ -33,8 +33,16 @@ To build an assistive system that converts hand gestures into meaningful voice o
 
 ## ▶ How to Run the Project
 
-```bash
-python -m app.main
+
+👉 That closing ``` is **mandatory**.
+
+---
+
+## ✅ STEP 3: USE THIS FINAL, CORRECT IMAGE SECTION (COPY–PASTE)
+
+Replace your **Output Screenshots** section with this **exact block**:
+
+```markdown
 ## Output Screenshots
 
 ### Gesture Detection – Hello
@@ -54,4 +62,3 @@ python -m app.main
 
 ### Gesture Detection – Thank You
 ![Thank You Gesture](screenshots/pic6.png)
-
